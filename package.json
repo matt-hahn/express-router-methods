@@ -1,6 +1,6 @@
 {
   "name": "express-router-methods",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of methods that are being used for express router api handling (like get, post, put, ...) from express.Router()",
   "keywords": ["express", "api", "app", "http", "router", "express.Router()", "methods", "express router methods"],
   "main": "index.js",
