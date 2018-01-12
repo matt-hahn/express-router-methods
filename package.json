@@ -1,8 +1,17 @@
 {
   "name": "express-router-methods",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "List of methods that are being used for express router api handling (like get, post, put, ...) from express.Router()",
-  "keywords": ["express", "api", "app", "http", "router", "express.Router()", "methods", "express router methods"],
+  "keywords": [
+    "express",
+    "api",
+    "app",
+    "http",
+    "router",
+    "express.Router()",
+    "methods",
+    "express router methods"
+  ],
   "main": "index.js",
   "repository": "https://github.com/matt-hahn/express-router-methods.git",
   "author": "Matt Hahn <matt.hahn@matthahndesign.com>",
@@ -13,6 +22,7 @@
     "chai": "^4.1.2",
     "eslint": "^4.15.0",
     "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-prettier": "^2.4.0",
     "mocha": "^4.1.0",
     "prettier": "^1.10.2"
